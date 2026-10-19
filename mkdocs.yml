@@ -1,0 +1,3 @@
+site_name: 'neworg-test'
+nav:
+  - Home: index.md
